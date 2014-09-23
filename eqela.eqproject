@@ -1,9 +1,0 @@
-
-#
-# Project configuration file for
-# TaskListSORIANO
-#
-
-projectname: TaskListSORIANO
-vendorid: com.sem1.EquelaAppSORIANO
-mainmodule: com.sem1.EquelaAppSORIANO.tasklistsoriano
